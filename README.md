@@ -10,7 +10,7 @@ A synchronous prompt function for Node, in the tradition of `prompt()` in the br
 ## Usage
 
 ```js
-var prompt = require('./index')
+var prompt = require('myprompt')
 
 var name = prompt('What\'s your name?')
 

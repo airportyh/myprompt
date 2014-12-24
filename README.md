@@ -1,7 +1,7 @@
 `myprompt`
 ==========
 
-A synchronous prompt function for Node, in the tradition for `prompt()` in the browser.
+A synchronous prompt function for Node, in the tradition of `prompt()` in the browser. Based on [sync-prompt](https://github.com/shovon/sync-prompt).
 
 ## Install
 
